@@ -1,13 +1,28 @@
 ### Hi there 👋
 
+- 🔥 DevOps Enginner
+
+- 💬 Ask me about ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)![Terraform](https://img.shields.io/badge/-Terrafom-05122A?style=flat&logo=Terraform)
+
+- ⚡ Fun fact My favorite OS ![Ubunto](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.olhardigital.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2F20191128035112.jpg&tbnid=Uz9teuuAo793eM&vet=12ahUKEwid0ODRi_j_AhVjspUCHaWJCpYQMygKegUIARDfAQ..i&imgrefurl=https%3A%2F%2Folhardigital.com.br%2F2019%2F11%2F28%2Fnoticias%2Fubuntu-19-10-faz-seu-pc-antigo-parecer-novo%2F&docid=Fw5atFIoYG1-_M&w=1257&h=800&q=imagem%20ubuntu%20linux%20logo&client=ubuntu-sn&ved=2ahUKEwid0ODRi_j_AhVjspUCHaWJCpYQMygKegUIARDfAQ)&nbsp; 
 
 
-- 🌱 I’m currently learning HTML, CSS, JS, Node JS, Git, SQL and Cloud.
-- 📫 How to reach me:<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aldrige-junior-661939187" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/aldrige-junior-661939187?trk=profile-badge">Aldrige Junior</a></div>
-              
+## 🛠 &nbsp;Tech Stack
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-              
-              
-              
