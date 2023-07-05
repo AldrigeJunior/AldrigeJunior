@@ -4,7 +4,7 @@
 
 - 💬 Ask me about ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)![Terraform](https://img.shields.io/badge/-Terrafom-05122A?style=flat&logo=Terraform)
 
-- ⚡ Fun fact My favorite OS ![Ubunto](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.olhardigital.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2F20191128035112.jpg&tbnid=Uz9teuuAo793eM&vet=12ahUKEwid0ODRi_j_AhVjspUCHaWJCpYQMygKegUIARDfAQ..i&imgrefurl=https%3A%2F%2Folhardigital.com.br%2F2019%2F11%2F28%2Fnoticias%2Fubuntu-19-10-faz-seu-pc-antigo-parecer-novo%2F&docid=Fw5atFIoYG1-_M&w=1257&h=800&q=imagem%20ubuntu%20linux%20logo&client=ubuntu-sn&ved=2ahUKEwid0ODRi_j_AhVjspUCHaWJCpYQMygKegUIARDfAQ)&nbsp; 
+- ⚡ Fun fact My favorite OS ![Ubunto]
 
 
 ## 🛠 &nbsp;Tech Stack
